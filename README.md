@@ -13,7 +13,7 @@
 ## 😃 About me 
 - 💻 I'm studying Computer Science and Full Stack Dev.
 - 📍 I'm currently settled in Buenos Aires, Argentina 🇦🇷.
-- 📚 I'm currently learning Express, MongoDB, and NodeJS.
+- 📚 Learning Express, MongoDB, and NodeJS.
 - 🔥 Fun fact: I lived in Slovenia my whole childhood 🇸🇮.
 - 🤙 More about me:
   
