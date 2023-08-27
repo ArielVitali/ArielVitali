@@ -25,7 +25,7 @@
 ## 🔥 Streak Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArielVitali&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
  -->
-
+ <!-- 
 ## 🛠️ My Skills
 
 ### ⚙️ Backend Development
@@ -99,3 +99,4 @@
   &emsp;
 </p>
 <br/>
+ -->
