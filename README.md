@@ -13,8 +13,7 @@
 ## 😃 About me 
 - 💻 I'm studying Computer Science and Full Stack Dev.
 - 📍 I'm currently settled in Buenos Aires, Argentina 🇦🇷.
-- 📚 Learning Express, MongoDB, and NodeJS.
-- 🔥 Fun fact: I lived in Slovenia my whole childhood 🇸🇮.
+- 🔥 Fun fact: I love Mate 🧉.
 - 🤙 More about me:
   
   - [![Linkedin](https://img.shields.io/badge/-Ariel_Vitali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ariel~gonzalez~vitali-a033aa1bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3pr%2Bx94SQwCmxNdKXMexQQ%3D%3D)
